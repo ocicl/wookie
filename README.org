@@ -1,0 +1,10 @@
+* wookie
+
+Asynchronous HTTP server in common lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/orthecreedence/wookie.git   |
+| commit  | 1f74b6c  |
+| systems | wookie |
+|---------+-------------------------------------------|
+
